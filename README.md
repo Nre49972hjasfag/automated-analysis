@@ -43,4 +43,3 @@ your-repo-name/
 • Large Language Model: google-genai SDK targeting the gemini-2.0-flash model.
 • Document Engine: fpdf2 for clean, programmatically styled PDF generation.
 
-Python FastAPI Pandas Matplotlib Seaborn n8n Gemini AI Kaggle Dataset                    
