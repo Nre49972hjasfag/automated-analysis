@@ -1,0 +1,16 @@
+Date,Region,Category,Units_Sold,Unit_Price,Revenue,Customer_Rating
+2026-01-05,North,Electronics,12,799.99,9599.88,4.6
+2026-01-06,South,Office Supplies,85,14.50,1232.50,4.2
+2026-01-08,East,Furniture,5,249.00,1245.00,3.9
+2026-01-12,West,Electronics,24,199.00,4776.00,4.8
+2026-01-15,North,Furniture,8,450.00,3600.00,4.5
+2026-01-19,South,Electronics,15,549.99,8249.85,4.1
+2026-01-22,West,Office Supplies,120,4.99,598.80,4.4
+2026-01-26,East,Electronics,8,1199.00,9592.00,4.7
+2026-02-01,North,Office Supplies,45,29.99,1349.55,4.0
+2026-02-04,South,Furniture,14,189.99,2659.86,3.5
+2026-02-10,West,Electronics,30,89.99,2699.70,4.9
+2026-02-12,East,Office Supplies,200,2.50,500.00,4.3
+2026-02-18,North,Electronics,6,1499.00,8994.00,4.6
+2026-02-22,South,Office Supplies,65,18.75,1218.75,3.8
+2026-02-25,West,Furniture,11,320.00,3520.00,4.2
