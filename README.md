@@ -21,8 +21,22 @@ text
             │                                     │
             └──────────────────┬──────────────────┘
                                ▼
-                    [ FPDF2 Report Builder ] ──> [ Stream Response ] ──> [ Auto-Cleanup Task ]
+                    [ FPDF2 Report Builder ] ──> [ Stream Response ] ──> [ Auto-Cleanup Task ]  =>
 
+----------------------------------------------------------------------                    
+your-repo-name/
+│
+├── app/
+│   ├── __init__.py
+│   ├── main.py          # FastAPI endpoints & lifecycle
+│   ├── profiling.py     # Pandas & Seaborn chart engine
+│   ├── insights.py      # Google Gemini Flash API orchestrator
+│   └── report.py        # FPDF2 document generator
+│
+├── requirements.txt     # Python production dependencies
+└── .env.example         # System environment variables template
+
+-------------------------------------------------------------------------
 
 • Backend Framework: FastAPI & Uvicorn (High-performance, async Python web ecosystem).
 • Data Science & Plots: Pandas, Matplotlib, and Seaborn.
